@@ -1,2 +1,9 @@
 # Curso-Practico_JS-Porcentajes
-este es el segundo proyecto de JS
+
+## Taller #2: Porcentajes y Descuentos
+
+
+- Primer paso: definir las formulas
+- Segundo: implementar las formulas en JS
+- Tercer paso: crear funciones
+- Cuarto paso: Integar JavaScript con Html.
